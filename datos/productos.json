@@ -1,0 +1,6 @@
+[
+  {"id_producto": 1, "nombre": "Encebollado", "categoria": "Platos fuertes", "precio": 4.5, "stock": 30},
+  {"id_producto": 2, "nombre": "Seco de pollo", "categoria": "Platos fuertes", "precio": 5.0, "stock": 25},
+  {"id_producto": 3, "nombre": "Jugo de naranja", "categoria": "Bebidas", "precio": 1.5, "stock": 50},
+  {"id_producto": 4, "nombre": "Tres leches", "categoria": "Postres", "precio": 2.75, "stock": 15}
+]
